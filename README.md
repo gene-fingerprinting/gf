@@ -5,6 +5,22 @@ GF leverages Zero-shot Learning (ZSL) to reduce the effort to collect data from 
 
 The repository contains the code for the GF attack, our implementations of known WF attacks, the the dataset for closed- and open-world evaluation.
 
+#### Reference Format
+```
+@article{LiGZ22,
+  author    = {Ding Li and
+               Chunxiang Gu and
+               Yuefei Zhu},
+  title     = {Gene Fingerprinting: Cracking Encrypted Tunnel with Zero-Shot Learning},
+  journal   = {{IEICE} Trans. Inf. Syst.},
+  volume    = {105},
+  number    = {6},
+  pages     = {1172--1184},
+  year      = {2022},
+  doi       = {10.1587/transinf.2021edp7179},
+}
+```
+
 :warning: ***Note:*** The code and dataset are for NON-COMMERCIAL RESEARCH USE ONLY!
 
 ## Dataset
